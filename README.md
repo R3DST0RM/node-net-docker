@@ -13,4 +13,4 @@ This container can be used in your CI environment to provide a harmonized build 
 
 ## Contribute
 
-Feel free to submit a PR
+Feel free to submit a PR!
