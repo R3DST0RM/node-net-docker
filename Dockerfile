@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/dotnet/sdk:9.0
+FROM mcr.microsoft.com/dotnet/sdk:10.0
 
 ENV DOTNET_CLI_TELEMETRY_OPTOUT=true \
     DOTNET_SKIP_FIRST_TIME_EXPERIENCE=true \
